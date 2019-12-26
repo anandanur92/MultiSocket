@@ -1,0 +1,10 @@
+PRAKTIKUM 1 - PRAKTIKUM 2
+Berkirim pesan dari client ke server dengan menggunakan multicastSocket dengan anonymous port, 
+dimana tidak membutuhkan port khusus/tertentu untuk menerima jawaban dari server yang dihubungi.
+Pesan dikirim sesuai dengan inputan dari user yang kemudian dari client akan di close dan dari 
+server akan menampilkan pesan.
+
+PRAKTIKUM 3 - PRAKTIKUM 4
+Berkirim pesan dari client ke server dengan menggunakan multicastSocket dengan menerima 
+datagram dari port yang ditentukan. Pesan yang client kirim sudah ditentukan dengan 
+ttl(time to live)=5 dan akan diulang sebanyak 10 kali, dan dari server akan menampilkan pesan.
